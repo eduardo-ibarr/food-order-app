@@ -11,7 +11,7 @@
 
 ## 💻 Pré-requisitos
 
--   Você instalou a versão mais recente de Node.js
+-   Você instalou a versão mais recente do Node.js
 
 ## 🚀 Instalando Food Order App
 

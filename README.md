@@ -1,6 +1,5 @@
 # Food Order App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/eduardo-ibarr/food-order-app?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardo-ibarr/food-order-app?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/eduardo-ibarr/food-order-app?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/eduardo-ibarr/food-order-app?style=for-the-badge)

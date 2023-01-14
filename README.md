@@ -7,7 +7,7 @@
 
 <img src="example.png" alt="exemplo de imagem">
 
-> Applicação front-end para visualizar itens e adicionar produtos num carrinho em um restaurante.
+> Aplicação front-end para visualizar itens e adicionar produtos num carrinho em um restaurante.
 
 ## 💻 Pré-requisitos
 
